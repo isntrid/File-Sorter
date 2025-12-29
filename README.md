@@ -7,11 +7,9 @@ You can use this program to quickly and easily sort your files instantly, siftin
 You must run this program with read/write permissions for it to function.
 
 ## Features:
-<ul> 
-  You can sort by one or more file types 
-  The program is case-insensitive (aside from when you are specifying your target folder to sort within)
-  There is no need to add a period to the beginning of each file type, instead you may simply type 'exe' or 'pdf'
-  The program will also create a new, named, folder if the one you specify doesn't exist.
-  You can also view how many files were moved. 
-</ul>
+- Case-insensitive extension matching (i.e. 'HEIC' = 'heic')
+- No reason to add a period infront of your inputs, you can simply type 'exe' or 'pdf'.
+- Supports multiple file types at once.
+- Automatically creates target folder if it doesn’t exist.
+- Shows number of files moved.
 
