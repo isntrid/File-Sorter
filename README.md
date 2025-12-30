@@ -1,6 +1,6 @@
 # File-Sorter 🗃️
 
-This program, when given appropriate permissions, can sort any number of files in any directory or folder of your choice into a, pre-existing or otherwise, folder by extension types (i.e. .exe, .pkg, .pdf).
+This program can sort any number of files in any directory or folder of your choice into a, pre-existing or otherwise, folder by extension types (i.e. .exe, .pkg, .pdf).
 
 You can use this program to quickly and easily sort your files instantly, sifting through any number of files rapidly.
 
