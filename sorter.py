@@ -2,7 +2,6 @@ import os
 import shutil
 
 def move_file(directory, file, target_dir, suffixes):
-
     src = os.path.join(directory, file)
     if os.path.isfile(src) and file.lower().split('.')[-1] in suffixes:
         dst = os.path.join(target_dir, file)
